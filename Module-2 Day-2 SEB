@@ -1,1 +1,40 @@
 
+MODULE-1 DAY-2 SEB 
+AIM
+
+To write a Python program that reads one integer value and one float value from the user and displays them.
+
+ ALGORITHM
+#STEP :01
+
+Start the program.
+
+#STEP :02
+
+Read an integer value from the user using the int() function.
+
+#STEP :03
+
+Read a float value from the user using the float() function.
+
+#STEP :04
+
+Display both values.
+
+#STEP :05
+
+Stop the program.
+```
+PROGRAM
+num1 = int(input("Enter an integer value: "))
+num2 = float(input("Enter a float value: "))
+print("Integer value:", num1)
+print("Float value:", num2)
+```
+
+OUTPUT
+<img width="332" height="160" alt="image" src="https://github.com/user-attachments/assets/46290acb-c21d-4f67-851c-d92f7f4c4c70" />
+
+ RESULT:
+The program successfully reads an integer and a float value from the user and displays them correctly.
+
