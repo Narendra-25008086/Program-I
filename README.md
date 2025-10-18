@@ -16,6 +16,7 @@ Accept a single character input from the user.
 #STEP 4:
 
 Check whether the entered character is one of the vowels — 'a', 'e', 'i', 'o', 'u' or their uppercase forms 'A', 'E', 'I', 'O', 'U'.
+
 #STEP 5:
 
 If it matches, print that the entered character is a vowel.
