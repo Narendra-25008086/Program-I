@@ -5,15 +5,25 @@ To write a Python program that accepts a character as input and checks whether i
 
 ALGORITHM:
 
+#STEP 1:
+
 Start the program.
+
+#STEP 2:
 
 Accept a single character input from the user.
 
+#STEP 4:
+
 Check whether the entered character is one of the vowels — 'a', 'e', 'i', 'o', 'u' or their uppercase forms 'A', 'E', 'I', 'O', 'U'.
+#STEP 5:
 
 If it matches, print that the entered character is a vowel.
 
+#STEP 6:
+
 Otherwise, print that it is not a vowel.
+#STEP 7:
 
 Stop the program.
 
