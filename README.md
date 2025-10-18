@@ -30,5 +30,7 @@ else:
 OUTPUT:
 <img width="366" height="141" alt="Screenshot 2025-10-18 191907" src="https://github.com/user-attachments/assets/2973f791-4fb4-4d50-a33c-fb1633a598ab" />
 
+
+
 RESULT:
 The program successfully accepts a single character from the user and identifies whether it is a vowel or not using character literals in Python.
